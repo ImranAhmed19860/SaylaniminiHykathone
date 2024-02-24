@@ -1,0 +1,36 @@
+
+.MainHero{
+    border: 2px solid black;
+    width: 100vh;
+}
+
+
+.hero-left{
+    width: 50%;
+
+
+}
+.hero-right{
+background-image: url(./Assets//Images/qr-code-us-home-hero.svg);
+width: 50%;
+}
+.Middle{
+    margin-top:60px ;
+
+}
+img{
+    width: 50px;
+}
+.nav-item .nav-link {
+    color: blue;
+}
+a{
+    color: blue;
+    text-decoration: none;
+    margin-left: 50px;
+}
+.card1{
+    border: 2px solid black;
+    width: 100%;
+
+}
